@@ -1,11 +1,12 @@
 This folder contains all the files for the Capstone Project.
 
-1. Introduction & Description
-2. Full Report
+1. Introduction & Description (included in full report)
+2. Jupyter Notebook of Code ran and used
+3. Full Report
   - Introduction
   - Data & tools
   - Methodology
   - Results
   - Analysis
   - Conclusion
-3. Presentation
+4. Presentation
